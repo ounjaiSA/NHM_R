@@ -1,3 +1,9 @@
+*.pptx
+*.docx
+
+#ignor stupid_script
+stupid_script.R
+
 # History files
 .Rhistory
 .Rapp.history
